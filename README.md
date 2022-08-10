@@ -1,4 +1,4 @@
 ### Hi there 👋
 <img src="https://raw.githubusercontent.com/GabeLeach/GabeLeach/master/github banner.png" alt="banner">
 
-![hot-fuzz-leslie-tiller](https://user-images.githubusercontent.com/44070932/184009716-63bc4ecd-77cc-4d7d-ae4c-6b7b4a7e1316.gif)
+![giphy](https://user-images.githubusercontent.com/44070932/184009917-124d1c2f-f562-4917-9004-a40835e1a997.gif)
