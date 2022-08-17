@@ -5,7 +5,7 @@
 
 Welcome to my GitHub!
 
-👋🏽 Hi, my name is Gabe.Here you will find a collection of my personal projects, CodeWars solutions and portfolio work.
+👋🏽 Hi, my name is Gabe. Here you will find a collection of my personal projects, CodeWars solutions and portfolio work.
 
 🎓 I recently graduated from MSci Computer Science with AI (Hons), at the University of Nottingham.
 
