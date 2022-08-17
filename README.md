@@ -18,3 +18,6 @@ Welcome to my GitHub!
 🏔 In my free time, I enjoy playing a bit of Rugby League and taking part in Hackathons. Oh, and I LOVE Thai food.
 
 💪🏽 My strengths include; Software Development, Natural Language Processing, Programming, Event Organisation and Communication.
+
+![giphy](https://user-images.githubusercontent.com/44070932/185105415-a4a7a0cd-39c2-4059-ba1c-c70d0694c13e.gif)
+
