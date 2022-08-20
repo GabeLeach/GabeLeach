@@ -13,7 +13,7 @@ Welcome to my GitHub!
 
 💪🏽 My strengths include; Software Development, Natural Language Processing, Programming, Event Organisation and Communication.
 
-🏔 In my free time, I enjoy taking part in Hackathons, playing video games and listening to music - Check out my recently listend tracks below!
+🏔 In my free time, I enjoy taking part in Hackathons, playing video games and listening to music - Check out my recently listened tracks below!
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=labegeach&width=600)
 
