@@ -19,5 +19,8 @@ Welcome to my GitHub!
 
 💪🏽 My strengths include; Software Development, Natural Language Processing, Programming, Event Organisation and Communication.
 
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Gabe Leach)
+
 ![giphy](https://user-images.githubusercontent.com/44070932/185105415-a4a7a0cd-39c2-4059-ba1c-c70d0694c13e.gif)
 
