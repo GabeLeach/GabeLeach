@@ -11,7 +11,7 @@ Welcome to my GitHub!
 
 🌇 UK based, passionate and aspiring Computer Scientist. 
 
-📚 My main interests lay within the development of technology that provides excellent user experience and interactivity. Specifically, the implementation of natural language processing and intelligent agents to create tailored solutions accommodating a wide range of user requirements.
+📚 My main interests are within the development of technology that provides excellent user experience and interactivity. Specifically, the implementation of natural language processing and intelligent agents to create tailored solutions accommodating a wide range of user requirements.
 
 💻 As for my future, I would like to continue research into the application of mixed reality technologies and the social impact they could have on user experience. Over the COVID-19 pandemic, many people have sought out ways to stay in contact with friends and family remotely. Perhaps MR could be a new development in how we socialise as humans.
 
