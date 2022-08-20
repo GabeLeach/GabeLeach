@@ -9,11 +9,11 @@ Welcome to my GitHub!
 
 🎓 I recently graduated from MSci Computer Science with AI (Hons), at the University of Nottingham.
 
-📚 My main interests are within the development of technology that provides excellent user experience and interactivity. Specifically, the implementation of natural language processing and intelligent agents to create tailored solutions accommodating a wide range of user requirements.
+📚 My main interests are within the development of technology that provides excellent user experience interactivity and accessibility. Specifically, the implementation of Mixed Reality Technologies and Intelligent Agents to create tailored solutions accommodating a wide range of user requirements. 
 
 💪🏽 My strengths include; Software Development, Natural Language Processing, Programming, Event Organisation and Communication.
 
-🏔 In my free time, I enjoy taking part in Hackathons, playing video games and listening to music - Check out my recently listened tracks below!
+🏔 In my free time I enjoy: Thai Cuisine; Rugby League; Roleplaying, Board, Card and Video games; Watching The Office (US) on repeat and listening to music - Check out my recently listened tracks below!
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=labegeach&width=600)
 
