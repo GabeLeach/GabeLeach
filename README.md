@@ -9,7 +9,7 @@ Welcome to my GitHub!
 
 🎓 I recently graduated from MSci Computer Science with AI (Hons), at the University of Nottingham.
 
-📚 My main interests are within the development of technology that provides excellent user experience, interactivity and accessibility. Specifically, the implementation of Mixed Reality Technologies and Intelligent Agents to create tailored solutions accommodating a wide range of user requirements. 
+📚 My main interests are within the development of technology that provides excellent user experience, interactivity and accessibility. Specifically, the implementation of Mixed Reality Technologies and Intelligent Agents to create tailored solutions, accommodating a wide range of user requirements. 
 
 💪🏽 My strengths include; Software Development, Natural Language Processing, Programming, Event Organisation and Communication.
 
