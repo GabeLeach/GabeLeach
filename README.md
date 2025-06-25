@@ -39,7 +39,7 @@ Outside of research, I’m interested in:
 Some projects here are practical, some are academic, and some are just for fun.
 
 ### Life beyond the screen
-When I’m not at my desk, I’m probably :
+When I’m not at my desk, I’m probably:
 - Running around at a LARP event
 - Playing rugby (badly, but enthusiastically)
 - Catching up with building and painting my Warhammer army
