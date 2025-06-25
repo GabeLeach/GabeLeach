@@ -53,7 +53,9 @@ I’m always happy to talk about:
 - Building better research tools
 - Making cool, weird, or useful stuff with code
 
-Thanks for stopping by — feel free to explore my repos or drop me a message.
+To get in touch feel free to reach out on LinkedIn [www.linkedin.com/in/gabriel-leach].
+
+Thanks for stopping by — feel free to explore my repos.
 
 <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=labegeach&width=600) -->
 
