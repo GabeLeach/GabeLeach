@@ -1,10 +1,8 @@
-<img src="https://raw.githubusercontent.com/GabeLeach/GabeLeach/master/BANNER.png" alt="banner">
+<!-- <img src="https://raw.githubusercontent.com/GabeLeach/GabeLeach/master/BANNER.png" alt="banner"> -->
 
-
-### Hi there 👋
 # Welcome to my GitHub 👋
 
-Hi, I’m Gabe — a PhD Candidate working on AI and sensor-based health monitoring. Most of my work involves building tools to analyse data for assessing age related conditions, posture, and activity, with a strong focus on reproducibility, modularity, and real-world application.
+I'm a PhD Candidate working on AI and sensor-based health monitoring. Most of my work involves building tools to analyse data for assessing age related conditions, posture, and activity, with a strong focus on reproducibility, modularity, and real-world application.
 
 ---
 
@@ -25,8 +23,8 @@ The goal is to make it easier for stakeholders; end-users, researchers, and clin
 
 - 🧠 Human activity recognition from sensor data
 - 📊 Pressure and IMU data fusion
-- ⚙️ Scikit-learn, pandas, NumPy, matplotlib, Streamlit
-- 📦 Docker, Git, Jupyter, Django, React (for UI tooling)
+- ⚙️ Scikit-learn, pandas, NumPy, matplotlib, Streamlit, TensorFlow & Keras (for deep learning)
+- 📦 Docker, Git, Django, React (for UI tooling)
 - 📈 Reproducibility, evaluation, and model explainability
 
 ---
