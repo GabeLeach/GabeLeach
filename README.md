@@ -32,17 +32,16 @@ The goal is to make it easier for stakeholders; end-users, researchers, and clin
 ## Beyond the PhD
 
 Outside of research, I’m interested in:
-- Financial modelling and algorithmic trading (currently exploring this as a potential post-PhD direction)
+- Financial modelling and algorithmic trading (currently exploring this as a potential post-PhD direction).
 - Creative tech projects — from interactive games and simulations to random optimisation tools and experiments.
 - I enjoy playing video games, I tend to lean more towards traditional RPG's that emphasise story and strategy. I enjoy mechanics that reward knowledge, preperationm and careful build optimisation. 
 
 Some projects here are practical, some are academic, and some are just for fun.
 
-### Life beyond the screen
 When I’m not at my desk, I’m probably:
-- Running around at a LARP event
-- Playing rugby (badly, but enthusiastically)
-- Catching up with building and painting my Warhammer army
+- Running around at a LARP event.
+- Playing rugby (badly, but enthusiastically).
+- Catching up with building and painting my Warhammer army.
   
 ---
 
